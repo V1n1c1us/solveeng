@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt_br">
 <head>
@@ -16,7 +17,7 @@
 <body>
 <!-- HEADER -->
 <header>
-  	<?php include('inc/header.php'); ?>
+  <?php include('inc/header.php'); ?>
 </header>
 <div class="container-fluid">
   <div class="row">
@@ -230,8 +231,10 @@ tado conforme o planejado  [...]
 
 <!-- RODAPÉ -->
 <div class="footer">
- 	<?php include('inc/footer.php'); ?>
-</div>
+ 	<div class="container">
+    <p class="copy">HOTEL UMBERTO • © Copyright 2016 • Todos os Direitos Reservados</p>
+    <a class="logo-iguana" href="http://iguanaweb.com.br" target="_blank"></a>
+</div></div>
 <div class="buttom-top hidden-xs">
   <div class="go-top"> <img src="images/button-top.png" alt="topo"> </div>
 </div>

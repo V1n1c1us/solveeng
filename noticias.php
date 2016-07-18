@@ -14,7 +14,7 @@
 </head>
 <body>
 <header>
-	<?php include('inc/header.php'); ?>
+  <?php include('inc/header.php'); ?>
 </header>
 <div class="container-fluid">
   <div class="row">
@@ -27,42 +27,37 @@
   <div class="container margin60">
     <div class="row">
       <div class="col-md-12">
-        <h2 class="titulo">Quem Somos</h2>
+        <h2 class="titulo">Notícias</h2>
       </div>
-       <div class="col-12-md">
-       	<p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. </p>
-        <p>Conta com uma equipe de profissionais habilitados, credenciados e em constante atualização que proporcionam aos clientes um produto final de acordo com suas necessidades, expectativas e exigências.</p>
-        <p>Como pilares fundamentais, temos a proximidade com os clientes e a melhoria contínua como diferenciais inovadores no processo de construção de uma parceria segura entre empresa e cliente que visa, acima de tudo, a satisfação das duas partes neste processo.</p>
-
-        <h4><p>A empresa tem os seguintes valores:</p></h4>
-		<ul>
-        	<li>INTEGRIDADE</li>
-        	<li>COMPROMETIMENTO</li>
-        	<li>PROXIMIDADE COM OS CLIENTES</li>
-        	<li>HONSETIDADE</li>
-        	<li>MELHORIA CONTÍNUA</li>                                                
-        </ul>
-        <h4><p>Corpo Técnico:</p></h4>
-        <h4><p>Carolina Itála Cargnin Morcelli</p></h4>
-			<ul>
-        	<li>INTEGRIDADE</li>
-        	<li>COMPROMETIMENTO</li>
-        	<li>PROXIMIDADE COM OS CLIENTES</li>
-        	<li>HONSETIDADE</li>
-        	<li>MELHORIA CONTÍNUA</li>                                                
-        </ul>
-        <h4><p>Paulo Fernado Alves Filho</p></h4>
-			<ul>
-        	<li>INTEGRIDADE</li>
-        	<li>COMPROMETIMENTO</li>
-        	<li>PROXIMIDADE COM OS CLIENTES</li>
-        	<li>HONSETIDADE</li>
-        	<li>MELHORIA CONTÍNUA</li>                                                
-        </ul>          
-       </div> 
+      <div class="col-md-12">
+      <ul class="noticias">
+        <li><p>17.07.2016</p></li>
+        <li>
+          <p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. 
+        </p>
+        </li>
+        <li><p>17.07.2016</p></li>
+        <li>
+          <p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. 
+        </p>
+        </li>
+        <li><p>17.07.2016</p></li>
+        <li>
+          <p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. 
+        </p>
+        </li>
+        <li><p>17.07.2016</p></li>
+        <li>
+          <p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. 
+        </p>
+        </li>
+      </ul>
+        
+        
+      </div>
     </div>
   </div>
-    <div class="contato">
+  <div class="contato">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -93,10 +88,11 @@
 
 <!-- RODAPÉ -->
 <div class="footer">
- 	<?php include('inc/footer.php'); ?>
+  <?php include('inc/footer.php'); ?>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="js/bootstrap.min.js"></script> 
 <script src="js/custom.js"></script> 
+
 </body>
 </html>

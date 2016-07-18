@@ -19,7 +19,7 @@
 <div class="container-fluid">
   <div class="row">
    <div class="banner-principal">
-    <img src="images/banner-2.png" alt="Banner Solve Engenharia">
+    <img class="banner" src="images/banner-2.png" alt="Banner Solve Engenharia">
         </div>
     </div>
   </div>
