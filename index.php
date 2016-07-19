@@ -10,8 +10,6 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="css/owl.carousel.css" rel="stylesheet" type="text/css">
-
-<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">-->
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
