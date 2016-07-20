@@ -226,40 +226,23 @@ ul.noticias li:nth-child(2n){
 .row2 img{ width: 100%; border-bottom: 4px solid #fff; }
 .row2 .titulo {width: 100%; height: 60px; background: #004755; text-align: center; margin-bottom: 30px;}
 .row2 .titulo span { font-family: 'Raleway', sans-serif; font-weight: 700; font-size: 14px; color: #fff; text-transform:uppercase; padding: 10px; }	
-.hoverzoom-trabalhos {
-    overflow: hidden;
-}
 
-.hoverzoom-trabalhos .retina-trabalhos{
-position: absolute;
-width: 90%;
-height: 63%;
-top: 0;
-right: 15px;
-opacity: 0;    
-background: none repeat scroll 0 0 rgba(50, 130, 128, 1.5);
-border-bottom: 2px solid #fff;    
-text-align: center;
--webkit-transition:	 all .8s cubic-bezier(.190, 1.000, .220, 1.000);
--moz-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
--ms-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
--o-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); 
-}
-
-
-.hoverzoom-trabalhos:hover .retina-trabalhos{
-opacity: 1;
-}
-
-.retina-trabalhos img {
-	width: 100px;
-	border:none;
-	margin-top: 35px;
-}
-
+.hoverzoom-trabalhos { overflow: hidden; }
+.hoverzoom-trabalhos .retina-trabalhos{ position: absolute; width: 90%; height: 63%; top: 0; right: 15px; opacity: 0; background: none repeat scroll 0 0 rgba(50, 130, 128, 1.5); border-bottom: 2px solid #fff; text-align: center; -webkit-transition:	 all .8s cubic-bezier(.190, 1.000, .220, 1.000);-moz-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); -ms-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); -o-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); }
+.hoverzoom-trabalhos:hover .retina-trabalhos{ opacity: 1; }
+.retina-trabalhos img { width: 100px; border:none; margin-top: 35px; }
 .active { display: block !important }
 
+.texto p.sub-titulo, span.sub-titulo{ font-family: 'Raleway', sans-serif; font-weight: 700; }
+.texto h2{ color: #339999; margin: 10px 0 20px; padding: 0 70px; text-transform:uppercase;}
+.thumb-icone-param-01 { background:url(../images/trabalhos/trabalhos-icon-parag-01.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-02 { background:url(../images/trabalhos/trabalhos-icon-parag-02.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-03 { background:url(../images/trabalhos/trabalhos-icon-parag-03.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-04 { background:url(../images/trabalhos/trabalhos-icon-parag-04.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-05 { background:url(../images/trabalhos/trabalhos-icon-parag-05.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-06 { background:url(../images/trabalhos/trabalhos-icon-parag-06.png) no-repeat 0 0; padding-left:35px }
+.thumb-icone-param-07 { background:url(../images/trabalhos/trabalhos-icon-parag-07.png) no-repeat 0 0; padding-left:35px } 
+.thumb-icone-param-08 { background:url(../images/trabalhos/trabalhos-icon-parag-08.png) no-repeat 0 0; padding-left:35px }
 
 
 /*FOOTER*/
