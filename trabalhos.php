@@ -186,6 +186,42 @@ fícios da instalação.</p>
    </div>
 </div>
 </div>
+<div class="contato">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <h3>ENDEREÇO</h3>
+          <ul class="endereco">
+            <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
+            <li> <span class="end">CEP: 97010-040</span> </li>
+            <li> <span class="end">Santa Maria - RS</span> </li>
+          </ul>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <h3>CONTATO</h3>
+          <ul>
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
+                                href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
+            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)
+              9961-1333</a></li>
+            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55)
+              9149-4057</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- RODAPÉ -->
+<div class="footer">
+ 	<div class="container">
+    <p class="copy">HOTEL UMBERTO • © Copyright 2016 • Todos os Direitos Reservados</p>
+    <a class="logo-iguana" href="http://iguanaweb.com.br" target="_blank"></a>
+</div></div>
+<div class="buttom-top hidden-xs">
+  <div class="go-top"> <img src="images/button-top.png" alt="topo"> </div>
+</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="js/bootstrap.min.js"></script>
 <script>

@@ -16,10 +16,10 @@
               <ul class="nav navbar-nav navbar-right menu">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="quemsomos.php">Quem Somos</a></li>
-                <li><a href="">Nossos Trabalhos</a></li>
+                <li><a href="trabalhos.php">Nossos Trabalhos</a></li>
                 <li><a href="">Resolva Rápido</a></li>
                 <li><a href="noticias.php">Notícias</a></li>
-                <li><a href="">Trabalhe Conosco</a></li>
+                <li><a href="trabalhe-conosco.php">Trabalhe Conosco</a></li>
                 <li><a href="contato.php">Contatos</a></li>
               </ul>
             </div>

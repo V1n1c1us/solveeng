@@ -101,13 +101,7 @@ ul.menu li > a:hover { background: none; border-bottom: 6px solid #004755;}
 .hoverzoom {
     overflow: hidden;
 }
-.hoverzoom > .imagem {
-	border-radius: 2px;
-	-webkit-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
-	    -moz-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
-	     -ms-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
-	      -o-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
-	         transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
+.hoverzoom > .imagem { border-radius: 2px; -webkit-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); -moz-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); -ms-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000); -o-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);        transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
 }
 .hoverzoom .retina{
 position: absolute;
@@ -243,6 +237,28 @@ ul.noticias li:nth-child(2n){
 .thumb-icone-param-06 { background:url(../images/trabalhos/trabalhos-icon-parag-06.png) no-repeat 0 0; padding-left:35px }
 .thumb-icone-param-07 { background:url(../images/trabalhos/trabalhos-icon-parag-07.png) no-repeat 0 0; padding-left:35px } 
 .thumb-icone-param-08 { background:url(../images/trabalhos/trabalhos-icon-parag-08.png) no-repeat 0 0; padding-left:35px }
+
+/********************/
+
+/*TRABALHE CONOSCO*/
+
+ul.vagas li{ text-decoration:none; list-style: none; height: 57px; width: 100%;	background: #928c8c; margin-bottom: 7px; }
+ul.vagas li:hover{ background: #339999; }
+ul.vagas li a{ font-family: 'Raleway', sans-serif; font-weight: 700;font-size: 18px; color: #fff; line-height: 57px; padding: 22px; }
+ul.vagas-itens{ font-family: 'Raleway', sans-serif; font-size:22px; list-style: none;}
+
+.cabecalho { background: #004755; height: 35px;  }
+.cabecalho h3{  font-family: 'Raleway', sans-serif; font-weight: 400; font-size: 22px; color: #fff; text-transform:uppercase; line-height: 35px; margin-left: 20px;}
+
+.formulario {  background: #ccc;}
+.formulario h5, label, select{ font-family: 'Raleway', sans-serif; font-weight: 400; font-size: 22px; color: #333; margin-left: 20px; float:left;}
+
+.formulario input{ margin-left: 15px;}
+
+.send-form{ font-family: 'Raleway', sans-serif; font-weight: 400; font-size: 22px; color: #fff; background: #928c8c; height: 57px; line-height: 57px; border: none;}
+
+
+/********************/
 
 
 /*FOOTER*/
