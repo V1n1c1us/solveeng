@@ -14,7 +14,7 @@
 </head>
 <body>
 <header>
-	<?php include('inc/header.php'); ?>
+  <?php include('inc/header.php'); ?>
 </header>
 <div class="container-fluid">
   <div class="row">
@@ -30,29 +30,29 @@
         <h2 class="titulo">Quem Somos</h2>
       </div>
        <div class="col-12-md">
-       	<p>A SOLVE ENGENHARIA & CONSULTORIA é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. </p>
+       	<p>A <span class="sub-titulo">SOLVE ENGENHARIA & CONSULTORIA</span> é uma empresa que busca constantemente apresentar soluções, ou seja, solucionar problemas em engenharia através de alternativas eficazes, seguras e economicamente viáveis. </p>
         <p>Conta com uma equipe de profissionais habilitados, credenciados e em constante atualização que proporcionam aos clientes um produto final de acordo com suas necessidades, expectativas e exigências.</p>
         <p>Como pilares fundamentais, temos a proximidade com os clientes e a melhoria contínua como diferenciais inovadores no processo de construção de uma parceria segura entre empresa e cliente que visa, acima de tudo, a satisfação das duas partes neste processo.</p>
 
-        <h4><p>A empresa tem os seguintes valores:</p></h4>
-		<ul>
+        <h4><p><span class="sub-titulo">A empresa tem os seguintes valores:</span></p></h4>
+		<ul class="lista">
         	<li>INTEGRIDADE</li>
         	<li>COMPROMETIMENTO</li>
         	<li>PROXIMIDADE COM OS CLIENTES</li>
         	<li>HONSETIDADE</li>
         	<li>MELHORIA CONTÍNUA</li>                                                
         </ul>
-        <h4><p>Corpo Técnico:</p></h4>
-        <h4><p>Carolina Itála Cargnin Morcelli</p></h4>
-			<ul>
+		<h4><p><span class="sub-titulo">Corpo Técnico:</p></h4>
+        <p>Carolina Itála Cargnin Morcelli</p>
+			<ul class="lista">
         	<li>INTEGRIDADE</li>
         	<li>COMPROMETIMENTO</li>
         	<li>PROXIMIDADE COM OS CLIENTES</li>
         	<li>HONSETIDADE</li>
         	<li>MELHORIA CONTÍNUA</li>                                                
         </ul>
-        <h4><p>Paulo Fernado Alves Filho</p></h4>
-			<ul>
+        <p>Paulo Fernado Alves Filho</p>
+			<ul class="lista">
         	<li>INTEGRIDADE</li>
         	<li>COMPROMETIMENTO</li>
         	<li>PROXIMIDADE COM OS CLIENTES</li>

@@ -24,29 +24,29 @@
 <div class="container margin60">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="titulo">Notícias</h2>
+      <h2 class="titulo">Nossos Trabalhos</h2>
     </div>
 
   <div class="row row1">
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-01.png" alt="Inspeção e Manutenção">
         <a href="inspPredial"><div class="retina-trabalhos"><img src="images/trabalhos/trabalhos-icon-01.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>Inspeção e Manutenção Predial</span> </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-02.png" alt="Inspeção e Manutenção">
         <a href="relatLaudos"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-02.png" alt=""> </div></a>
       </div>
       <div class="titulo"> <span>Relatórios e Laudos Técnicos</span> </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-03.png" alt="Inspeção e Manutenção">
         <a href="planoPreve"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-03.png" alt=""> </div></a>
       </div>
       <div class="titulo"> <span>Plano de Prevenção contra Incêndio</span> </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-04.png" alt="Inspeção e Manutenção">
          <a href="projetosCivis"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-04.png" alt=""> </div></a>
       </div>
@@ -54,25 +54,25 @@
     </div>
   </div>
   <div class="row row2">
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
     <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-05.png" alt="Inspeção e Manutenção">
         <a href="projetoSpda"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-07.png" alt=""> </div></a>
         <div class="titulo"> <span>Projetos de SPDA</span> </div>
       </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-06.png" alt="Inspeção e Manutenção">
         <a href="projetoFotovoltaico"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-08.png" alt=""> </div></a>
       </div>
       <div class="titulo"> <span>Projetos de Sistema Fotovoltaico</span> </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-07.png" alt="Inspeção e Manutenção">
         <a href="regularizacao"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-05.png" alt=""> </div></a>
       </div>
       <div class="titulo"> <span>Regularização de Imóveis e Desmembramento</span> </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
       <div class="hoverzoom-trabalhos"> <img src="images/trabalhos/trabalhos-08.png" alt="Inspeção e Manutenção">
         <a href="instEletrica"><div class="retina-trabalhos"> <img src="images/trabalhos/trabalhos-icon-06.png" alt=""> </div></a>
       </div>
@@ -81,7 +81,7 @@
   </div>
 </div>
 <div class="row">
-	<div class="col-md-12">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 	<div id="inspPredial" class="texto thumb-icone-param-01 ">
         <h2>Inspeção e Manutenção Predial</h2>
         <p>As edificações são projetadas e pensadas para durarem um certo período de tempo que chamamos de 

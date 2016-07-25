@@ -230,8 +230,12 @@ tado conforme o planejado  [...]
 <!-- RODAPÉ -->
 <div class="footer">
  	<div class="container">
+	<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <p class="copy">HOTEL UMBERTO • © Copyright 2016 • Todos os Direitos Reservados</p>
     <a class="logo-iguana" href="http://iguanaweb.com.br" target="_blank"></a>
+    </div>
+    </div>
 </div></div>
 <div class="buttom-top hidden-xs">
   <div class="go-top"> <img src="images/button-top.png" alt="topo"> </div>
