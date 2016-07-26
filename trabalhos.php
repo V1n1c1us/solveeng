@@ -103,13 +103,13 @@ de projetos e perícias técnicas, por exemplo.</p>
 		<p>Apontam de maneira completamente imparcial a origem das anomalias das edificações, auxiliando no 
 		encontro de responsabilidades para cada fato encontrado.</p>
         <p class="sub-titulo">Nossos materiais são compostos por:</p>
-       		<ul>
+       		<ul class="margin-lista">
         		<li>Contextualização da situação de cada imóvel;</li>
                 <li>Revisão bibliográfica para cada tipo de anomalia existente;</li>
                 <li>Registro fotográfico  completo;</li>
         	</ul>
          <p class="sub-titulo">Este serviço pode auxiliar nos seguintes pontos:</p>
-       		<ul>
+       		<ul class="margin-lista">
         		<li>Contextualização da situação de cada imóvel;</li>
                 <li>Revisão bibliográfica para cada tipo de anomalia existente;</li>
                 <li>Registro fotográfico  completo;</li>
@@ -136,7 +136,7 @@ cesso do PPCI a fim de facilitar a vida dos empresários e moradores de edifíci
 TORIA trabalha compatibilizando os projetos civis e elétricos, evitando que aconteçam problemas de 
 instalação destes sistemas.</p>
 		<p class="sub-titulo">Entre os projetos elétricos destacam-se os seguintes:</p>
-       		<ul>
+       		<ul class="margin-lista">
             	<li>Projeto e assessoria de instalações elétricas residenciais, comerciais e industriais;</li>
 				<li>Projeto e adequação de quadro de medidores;</li>
 				<li>Projetos de sistemas de aterramentos;</li>
@@ -146,7 +146,7 @@ instalação destes sistemas.</p>
 				<li>Prontuário das instalações elétricas;</li>
         	</ul>
 		<p class="sub-titulo">Projetos civis destacam-se os seguintes:</p>
-       		<ul>
+       		<ul class="margin-lista">
         		<li>Projeto estrutural;</li>
                 <li>Projeto hidrossanitário;</li>
                 <li>Projeto arquitetônico;</li>
@@ -156,7 +156,7 @@ instalação destes sistemas.</p>
     	<h2>Projetos de SPDA</h2>
         <p>É mundialmente constatado que o Brasil possui uma grande incidência anual de descargas atmosféricas. A <span class="sub-titulo">SOLVE ENGENHARIA & CONSULTORIA</span> não quer que você perca algum equipamento ou sofra com demais consequências que uma descarga atmosférica possa causar, por isso trabalhamos com o projeto de Sistemas de Proteção Contra Descargas Atmosféricas (SPDA) que consiste no dimensionamento de um sistema que realizará a condução da energia proveniente da descarga atmosférica até o solo de uma maneira segura aos usuários.</p>
         <p class="sub-titulo">Projetos civis destacam-se os seguintes:</p>
-       		<ul>
+       		<ul class="margin-lista">
         		<li>Análise completa da edificação;</li>
                 <li>Avaliação da necessidade de SPDA de acordo com a NBR 5419/2015;</li>
                 <li>Inspeção de SPDA;</li>
