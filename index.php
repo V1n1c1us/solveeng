@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt_br">
 <head>
@@ -41,12 +40,12 @@
     </div>
   </div>
   <div class="container trabalhos">
-    <div class="row">
+    <div class="row hidden-xs">
       <div class="col-lg-12">
         <h2 class="titulo">Nossos Trabalhos</h2>
       </div>
     </div>
-    <div class="row">
+    <div class="row hidden-xs">
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
         <div class="box-trabalhos">
           <div class="retina"></div>
@@ -75,109 +74,234 @@
         </div>
       </div>
     </div>
+    <div class="row hidden-lg hidden-md hidden-sm">
+      <div class="col-lg-12">
+        <h2 class="titulo">Nossos Trabalhos</h2>
+      </div>
+    </div>
+    <div class="row hidden-lg hidden-md hidden-sm">
+      <div class="banner-secundario">
+        <div class="item">
+          <div class="box-trabalhos">
+            <div class="retina"></div>
+            <img class="img-responsive" src="images/Inspecao-e-Manutencao-predial.jpg" alt="Inspeção e Manutenção predial">
+            <div class="area-titulo">
+              <h5>Inspeção e Manutenção predial</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box-trabalhos">
+            <div class="retina"></div>
+            <img class="img-responsive" src="images/Relatorios-e-Laudos-Tecnicos.jpg" alt="Relatórios e Laudos Técnicos">
+            <div class="area-titulo">
+              <h5>Relatórios e Laudos Técnicos</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box-trabalhos">
+            <div class="retina"></div>
+            <img class="img-responsive" src="images/Projetos-de-sistema-fotovoltaico.jpg" alt="Projetos de sistema fotovoltaico">
+            <div class="area-titulo">
+              <h5>Projetos de sistema fotovoltaico</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="area-action"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
   </div>
-  <div class="resolva-rapido">
+  <div class="resolva-rapido hidden-xs">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 header">
-          <h2 class="titulo">Resolva Rápido</h2>
+          <h2 class="titulo-2">Resolva Rápido</h2>
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
           <div class="boxcima"> <img class="icon" src="images/resolva_rapido_01.png" alt="">
             <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_01.png" alt="CONTA DE LUZ MUITO CARA?">
               <div class="retina">
                 <p>Uma alternativa para economia 
-de energia elétrica é a geração 
-de energia fotovoltaica, a qual 
-consiste basicamente na geração 
-de energia elétrica através da 
-energia solar [...]  </p>
-                </div>
+                  de energia elétrica é a geração 
+                  de energia fotovoltaica, a qual 
+                  consiste basicamente na geração 
+                  de energia elétrica através da 
+                  energia solar [...] </p>
+              </div>
             </div>
-             </div>
+          </div>
           <div class="boxbaixo"> <span class="txt">CONTA DE LUZ MUITO CARA?</span> </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_02.png" alt=""> 
-          <div class="hoverzoom">
-          <img class="imagem" src="images/resolva_rapido_img_02.png" alt="PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?">
-          <div class="retina">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_02.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_02.png" alt="PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?">
+              <div class="retina">
                 <p>Uma alternativa para resolver o problema em sua instalação elé
-trica é realizar uma avaliação completa da instalação elétrica, identificar possíveis problemas e propor soluções viáveis  [...]                   
- </p>
-                </div>
+                  trica é realizar uma avaliação completa da instalação elétrica, identificar possíveis problemas e propor soluções viáveis  [...] </p>
+              </div>
             </div>
-             </div>
-          
+          </div>
           <div class="boxbaixo"> <span class="txt">PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?</span> </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
           <div class="boxcima"> <img class="icon" src="images/resolva_rapido_03.png" alt="">
-          <div class="hoverzoom">
-           <img class="imagem" src="images/resolva_rapido_img_03.png" alt="PRECISA DE ALVARÁ DOS BOMBEIROS?"> 
-          <div class="retina">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_03.png" alt="PRECISA DE ALVARÁ DOS BOMBEIROS?">
+              <div class="retina">
                 <p>Uma alternativa para resolver seus problemas com alvará é 
-a realização de um Projeto de Prevenção e proteção Contra Incêndio [...]                   
- </p>
-                </div>
-            </div></div>
+                  a realização de um Projeto de Prevenção e proteção Contra Incêndio [...] </p>
+              </div>
+            </div>
+          </div>
           <div class="boxbaixo"> <span class="txt">PRECISA DE ALVARÁ DOS BOMBEIROS?</span> </div>
         </div>
-      </div>
-      <div class="row box">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_04.png" alt=""> 
-          <div class="hoverzoom">
-          <img class="imagem" src="images/resolva_rapido_img_04.png" alt="SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?"> 
-          <div class="retina">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_04.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_04.png" alt="SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?">
+              <div class="retina">
                 <p>Uma alternativa para analisar se seu imóvel novo está com proble-
-mas é uma vistoria de edificação em garantia, a qual auxilia no controle do desempenho da edifica-
-ção [...]</p>
-                </div>
-            </div></div>
+                  mas é uma vistoria de edificação em garantia, a qual auxilia no controle do desempenho da edifica-
+                  ção [...]</p>
+              </div>
+            </div>
+          </div>
           <div class="boxbaixo"> <span class="txt">SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</span> </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
           <div class="boxcima"> <img class="icon" src="images/resolva_rapido_05.png" alt="">
-          <div class="hoverzoom">
-           <img class="imagem" src="images/resolva_rapido_img_05.png" alt="O PROJETO FOI BEM EXECUTADO?"> 
-          <div class="retina">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_05.png" alt="O PROJETO FOI BEM EXECUTADO?">
+              <div class="retina">
                 <p>Uma alternativa para analisar se 
-o projeto do imóvel foi bem executado é a auditoria técnica de projeto, a qual serve para conferir se o projeto comprado foi execu-
-tado conforme o planejado  [...]                  
-</p>
-                </div>
+                  o projeto do imóvel foi bem executado é a auditoria técnica de projeto, a qual serve para conferir se o projeto comprado foi execu-
+                  tado conforme o planejado  [...] </p>
+              </div>
             </div>
           </div>
           <div class="boxbaixo"> <span class="txt">O PROJETO FOI BEM EXECUTADO?</span> </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
           <div class="boxcima"> <img class="icon" src="images/resolva_rapido_06.png" alt="">
-          <div class="hoverzoom">
-           <img class="imagem" src="images/resolva_rapido_img_06.png" alt="PRECISA REGULARIZAR SEU IMÓVEL?">
-          <div class="retina">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_06.png" alt="PRECISA REGULARIZAR SEU IMÓVEL?">
+              <div class="retina">
                 <p>A regularização de um imóvel se torna uma vantagem para você, como o caso de compra-lo ou vendê-lo, pois agiliza o processo [...]</p>
-                </div>
+              </div>
             </div>
-           </div>
+          </div>
           <div class="boxbaixo"> <span class="txt">PRECISA REGULARIZAR SEU IMÓVEL?</span> </div>
         </div>
-		<div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
+        <div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
       </div>
+    </div>
+  </div>
+  
+  
+  <div class="resolva-rapido">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 header">
+          <h2 class="titulo-2">Resolva Rápido</h2>
+        </div>
+      </div>
+      <div class="row">
+      <div class="banner-resolvaRapido">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_01.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_01.png" alt="CONTA DE LUZ MUITO CARA?">
+              <div class="retina">
+                <p>Uma alternativa para economia 
+                  de energia elétrica é a geração 
+                  de energia fotovoltaica, a qual 
+                  consiste basicamente na geração 
+                  de energia elétrica através da 
+                  energia solar [...] </p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">CONTA DE LUZ MUITO CARA?</span> </div>
+        </div>
+                </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+         <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_02.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_02.png" alt="PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?">
+              <div class="retina">
+                <p>Uma alternativa para resolver o problema em sua instalação elé
+                  trica é realizar uma avaliação completa da instalação elétrica, identificar possíveis problemas e propor soluções viáveis  [...] </p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?</span> </div>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+         <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_03.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_03.png" alt="PRECISA DE ALVARÁ DOS BOMBEIROS?">
+              <div class="retina">
+                <p>Uma alternativa para resolver seus problemas com alvará é 
+                  a realização de um Projeto de Prevenção e proteção Contra Incêndio [...] </p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">PRECISA DE ALVARÁ DOS BOMBEIROS?</span> </div>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+         <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_04.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_04.png" alt="SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?">
+              <div class="retina">
+                <p>Uma alternativa para analisar se seu imóvel novo está com proble-
+                  mas é uma vistoria de edificação em garantia, a qual auxilia no controle do desempenho da edifica-
+                  ção [...]</p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</span> </div>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+         <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_05.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_05.png" alt="O PROJETO FOI BEM EXECUTADO?">
+              <div class="retina">
+                <p>Uma alternativa para analisar se 
+                  o projeto do imóvel foi bem executado é a auditoria técnica de projeto, a qual serve para conferir se o projeto comprado foi execu-
+                  tado conforme o planejado  [...] </p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">O PROJETO FOI BEM EXECUTADO?</span> </div>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+         <div class="item">
+          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_06.png" alt="">
+            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_06.png" alt="PRECISA REGULARIZAR SEU IMÓVEL?">
+              <div class="retina">
+                <p>A regularização de um imóvel se torna uma vantagem para você, como o caso de compra-lo ou vendê-lo, pois agiliza o processo [...]</p>
+              </div>
+            </div>
+          </div>
+          <div class="boxbaixo"> <span class="txt">PRECISA REGULARIZAR SEU IMÓVEL?</span> </div>
+        <div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
+      </div>
+      </div>
+     </div>
     </div>
   </div>
   <div class="orcamento">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 header">
-          <h1 class="">Solicite um Orçamento</h1>
+          <h2 class="titulo-2">Solicite um Orçamento</h2>
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <form action="">
             <div class="form-group">
               <input type="nome" class="form-control" id="nome" placeholder="Nome">
@@ -193,7 +317,7 @@ tado conforme o planejado  [...]
             </div>
           </form>
         </div>
-        <div class="col-lg-6 col-md-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div id="mapa"></div>
         </div>
         <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <a href="" class="enviar-form" type="submit">Enviar</a> </div>
@@ -203,7 +327,7 @@ tado conforme o planejado  [...]
   <div class="contato">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 ">
           <h3>ENDEREÇO</h3>
           <ul class="endereco">
             <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
@@ -229,14 +353,14 @@ tado conforme o planejado  [...]
 
 <!-- RODAPÉ -->
 <div class="footer">
- 	<div class="container">
-	<div class="row">
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <p class="copy">HOTEL UMBERTO • © Copyright 2016 • Todos os Direitos Reservados</p>
-    <a class="logo-iguana" href="http://iguanaweb.com.br" target="_blank"></a>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <p class="copy">HOTEL UMBERTO • © Copyright 2016 • Todos os Direitos Reservados</p>
+        <a class="logo-iguana" href="http://iguanaweb.com.br" target="_blank"></a> </div>
     </div>
-    </div>
-</div></div>
+  </div>
+</div>
 <div class="buttom-top hidden-xs">
   <div class="go-top"> <img src="images/button-top.png" alt="topo"> </div>
 </div>
@@ -268,6 +392,33 @@ tado conforme o planejado  [...]
     $(document).ready(function () {
         if ($(".banner-principal").length > 0) {
             $(".banner-principal").owlCarousel({
+                autoplay: true,
+                //autoplayHoverPause: true,
+                dots: true,
+                nav: false,
+                loop: true,
+                items: 1,
+            });
+        }
+    });
+	
+	$(document).ready(function () {
+        if ($(".banner-secundario").length > 0) {
+            $(".banner-secundario").owlCarousel({
+                autoplay: true,
+                //autoplayHoverPause: true,
+                dots: true,
+                nav: false,
+                loop: true,
+                items: 1,
+            });
+        }
+    });
+	
+	
+	$(document).ready(function () {
+        if ($(".banner-resolvaRapido").length > 0) {
+            $(".banner-resolvaRapido").owlCarousel({
                 autoplay: true,
                 //autoplayHoverPause: true,
                 dots: true,

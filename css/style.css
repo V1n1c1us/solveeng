@@ -60,7 +60,7 @@ h2.titulo {
     position: relative;
     margin-bottom: 20px;
 }
-h2.titulo: :after {
+h2.titulo:after {
     background: #328280;
     content: "";
     height: 1px;
@@ -68,6 +68,15 @@ h2.titulo: :after {
     position: absolute;
     bottom: 0px;
     width: 42px;
+}
+
+h2.titulo-2{
+	background: url('../images/img-titulo-02.png') no-repeat left top;
+    padding: 58px 0 16px 70px;
+    position: relative;
+    margin-bottom: 20px;
+	color: #fff;
+
 }
 a, a:hover {
     text-decoration: none;
@@ -174,6 +183,10 @@ header .menu {
 .banner-principal {
     margin-top: -100px;
 }
+
+.banner-secundario {
+    margin-top: -100px;
+}
 /*RESOLVA RÁPIDO*/
 
 .margin-lista {
@@ -202,6 +215,7 @@ header .menu {
     background: #fff;
     line-height: 50px;
     height: 50px;
+	margin-bottom: 30px;
 }
 .resolva-rapido .boxbaixo .txt {
     font-family: 'Raleway', sans-serif;
@@ -217,7 +231,7 @@ header .menu {
 .resolva-rapido .boxcima img.imagem {
     position: absolute;
     right: 15px;
-    bottom: 52px;
+	bottom: 82px;
 }
 .area-action-resolva-rapido {
     padding-top: 20px;
@@ -254,11 +268,11 @@ header .menu {
 .hoverzoom .retina {
     position: absolute;
     width: 61%;
-    height: 76%;
+    height: 66%;
     top: 0;
     right: 15px;
     opacity: 0;
-    border-bottom: 2px solid #404040;
+    border-bottom: 0px solid #404040;
     background: none repeat scroll 0 0 rgba(50, 130, 128, 1.5);
     text-align: center;
     -webkit-transition: all .8s cubic-bezier(.190, 1.000, .220, 1.000);
@@ -485,7 +499,7 @@ ul.noticias li:nth-child(2n) {
     padding-left: 35px }
 /********************/
 /*RESOLVA RÁDPIOD*/
-.box {
+.box-resolva {
     height: 157px;
     background: #339999;
     border-bottom: 2px solid #fff;
@@ -496,7 +510,7 @@ ul.noticias li:nth-child(2n) {
     margin-top: 35px;
     margin-left: 30%;
 }
-.box:hover {
+.box-resolva:hover {
     background: #004755;
 }
 .thumb-icone-resolva-01 {
@@ -673,8 +687,60 @@ h4 p {
 h4 p span {
     color: #333;
 }
-@media(max-width: 991px) {
-    header .logo {
+
+
+/*telas de largura máxima 411px*/
+@media screen and (min-width: 320px) and (max-width: 639px){
+	header .logo{
+	    margin: 0px 16px 8px 0px;
+	}
+	.logo img{
+	    width: 160px;
+	    margin-bottom: 55px;
+	}
+	
+    .navbar-collapse.collapse.in{
+		margin-bottom: 55px;
+	}
+	.margin60{
+		margin-top: 0px;
+	}
+	
+	h2.titulo{
+		font-size: 30px;
+	}
+	
+	h2.titulo-2{
+		font-size: 24px;
+	}
+	
+	.banner-secundario{
+		margin-top: 0px;
+	}
+	
+	.area-action{
+		margin: 0;
+	}
+	
+	.resolva-rapido .boxcima img.imagem {
+    right: 0px;
+	}
+
+	.enviar-form {
+    	margin-top: 30px;
+	}
+	
+	.footer .copy {
+    font-size: 13px;
+	}
+}
+/*telas de largura máxima 360px*/
+@media screen and (max-width: 380px){
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ header .logo {
     width: 100%;
     float: none;
     margin-left: -10px;
@@ -682,6 +748,7 @@ h4 p span {
  header .logo img {
     display: block;
     margin: 0 auto;
+	width: 280px;
     margin-bottom: 120px;
 }
  ul.menu li > a:hover {
@@ -704,6 +771,8 @@ h4 p span {
     border-radius: 4px;
     z-index: 100;
 }
+
+
 .box-trabalhos {
     margin-bottom: 10px;
 }
@@ -717,4 +786,5 @@ h4 p span {
 .enviar-form {
     margin-top: 30px;
 }
+
 }

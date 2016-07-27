@@ -30,25 +30,25 @@
   </div>
   <div class="row row1">
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="contaDeLuz"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-01.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>conta de luz muito cara?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="instEletrica"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-02.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>Problemas em sua instalação elétrica?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="alvaraBombeiros"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-03.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>Precisa de alvará dos bombeiros?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="rachaduraCasa"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-04.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>Está com infiltração ou rachadura em sua casa?</span> </div>
@@ -56,25 +56,25 @@
     
     
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="regulariazarImovel"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-05.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>precisa regularizar seu imóvel?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="imovelNovoProblema"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-06.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>  SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="projetoBemExecutado"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-07.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>QUER CONFERIR SE O PROJETO FOI BEM EXECUTADO?</span> </div>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box">
+      <div class="box-resolva">
         <a href="manutencao"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-08.png" alt=""></div></a>
       </div>
       <div class="titulo"> <span>SEU CONDOMÍNIO TEM ACOMPANHAMENTO DE MANUTENÇÃO?</span> </div>
