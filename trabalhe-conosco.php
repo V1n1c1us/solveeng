@@ -49,27 +49,31 @@
               <h3>cadastramento de candidato</h3>
             </div>
               <form action="" method="post" enctype="multipart/form-data">
-                <h5>Dados Pessoais</h5>
                 <div class="row">
-                  <div class="col-md-12">
+        	        <div class="col-md-12 col-xs-12">
+		                <h5>Dados Pessoais</h5>
+	                </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 col-xs-12">
                     <label for="">Nome:</label>
                     <input type="text" class="col-md-10">
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-6 col-xs-12">
                     <label for="">Sexo:</label>
                     <input type="radio" value="masculino" name="sexo">
                     Masculino
                     <input type="radio" value="feminino" name="sexo">
                     Masculino </div>
-                  <div class="col-md-6">
+                  <div class="col-md-6 col-xs-12">
                     <label for="">Data de Nascimento:</label>
                     <input type="text" class="col-lg-4">
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-6 col-xs-12">
                     <label for="">Estado Civil:</label>
                     <select name="estadoCivil" id="">
                       <option value="solteiro">--</option>
@@ -77,7 +81,7 @@
                       <option value="solteiro">Casado(a)</option>
                     </select>
                   </div>
-                  <div class="col-md-6">
+                  <div class="col-md-6 col-xs-12">
                     <label for="">Escolaridade:</label>
                     <select name="escolaridade" id="">
                       <option value="">--</option>
@@ -87,7 +91,7 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12">
+                  <div class="col-md-12 col-xs-12">
                     <label for="">Endereço:</label>
                     <input type="text" class="col-md-10">
                   </div>
@@ -121,15 +125,19 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12">
+                  <div class="col-md-12 col-xs-12">
                     <label for="">Email:</label>
                     <input type="email" class="col-md-10">
                   </div>
                 </div>
-                <h5>Dados Profissionais</h5>
+                <div class="row">
+        	        <div class="col-md-12 col-xs-12">
+		                <h5>Dados Profissionais</h5>
+	                </div>
+                </div>
                 <br>
                 <div class="row">
-                  <div class="col-md-12">
+                  <div class="col-md-12 col-xs-12">
                     <label for="">Empresa:</label>
                     <input type="text" class="col-md-10">
                   </div>

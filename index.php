@@ -81,6 +81,7 @@
     </div>
     <div class="row hidden-lg hidden-md hidden-sm">
       <div class="banner-secundario">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <div class="item">
           <div class="box-trabalhos">
             <div class="retina"></div>
@@ -89,7 +90,9 @@
               <h5>Inspeção e Manutenção predial</h5>
             </div>
           </div>
+          </div>
         </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <div class="item">
           <div class="box-trabalhos">
             <div class="retina"></div>
@@ -99,6 +102,8 @@
             </div>
           </div>
         </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <div class="item">
           <div class="box-trabalhos">
             <div class="retina"></div>
@@ -107,6 +112,7 @@
               <h5>Projetos de sistema fotovoltaico</h5>
             </div>
           </div>
+        </div>
         </div>
       </div>
     </div>
@@ -195,9 +201,7 @@
       </div>
     </div>
   </div>
-  
-  
-  <div class="resolva-rapido">
+  <div class="resolva-rapido hidden-lg">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 header">
@@ -208,9 +212,7 @@
       <div class="banner-resolvaRapido">
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_01.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_01.png" alt="CONTA DE LUZ MUITO CARA?">
-              <div class="retina">
+          <div class="boxcima"> 
                 <p>Uma alternativa para economia 
                   de energia elétrica é a geração 
                   de energia fotovoltaica, a qual 
@@ -218,80 +220,68 @@
                   de energia elétrica através da 
                   energia solar [...] </p>
               </div>
-            </div>
-          </div>
-          <div class="boxbaixo"> <span class="txt">CONTA DE LUZ MUITO CARA?</span> </div>
+           <div class="boxbaixo"><span class="txt">CONTA DE LUZ MUITO CARA?</span></div>
         </div>
-                </div>
+        </div>        
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
          <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_02.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_02.png" alt="PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?">
-              <div class="retina">
+          <div class="boxcima">
                 <p>Uma alternativa para resolver o problema em sua instalação elé
                   trica é realizar uma avaliação completa da instalação elétrica, identificar possíveis problemas e propor soluções viáveis  [...] </p>
               </div>
             </div>
-          </div>
+
           <div class="boxbaixo"> <span class="txt">PROBLEMAS EM SUA INSTALAÇÃO ELÉTRICA?</span> </div>
-        </div>
-        </div>
+          </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
          <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_03.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_03.png" alt="PRECISA DE ALVARÁ DOS BOMBEIROS?">
-              <div class="retina">
+          <div class="boxcima">
                 <p>Uma alternativa para resolver seus problemas com alvará é 
                   a realização de um Projeto de Prevenção e proteção Contra Incêndio [...] </p>
-              </div>
-            </div>
+
           </div>
           <div class="boxbaixo"> <span class="txt">PRECISA DE ALVARÁ DOS BOMBEIROS?</span> </div>
         </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
          <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_04.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_04.png" alt="SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?">
-              <div class="retina">
+          <div class="boxcima">
+
                 <p>Uma alternativa para analisar se seu imóvel novo está com proble-
                   mas é uma vistoria de edificação em garantia, a qual auxilia no controle do desempenho da edifica-
                   ção [...]</p>
-              </div>
-            </div>
+
           </div>
           <div class="boxbaixo"> <span class="txt">SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</span> </div>
         </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
          <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_05.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_05.png" alt="O PROJETO FOI BEM EXECUTADO?">
-              <div class="retina">
+          <div class="boxcima">
+
                 <p>Uma alternativa para analisar se 
                   o projeto do imóvel foi bem executado é a auditoria técnica de projeto, a qual serve para conferir se o projeto comprado foi execu-
                   tado conforme o planejado  [...] </p>
-              </div>
-            </div>
+
           </div>
           <div class="boxbaixo"> <span class="txt">O PROJETO FOI BEM EXECUTADO?</span> </div>
         </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
          <div class="item">
-          <div class="boxcima"> <img class="icon" src="images/resolva_rapido_06.png" alt="">
-            <div class="hoverzoom"> <img class="imagem" src="images/resolva_rapido_img_06.png" alt="PRECISA REGULARIZAR SEU IMÓVEL?">
-              <div class="retina">
+          <div class="boxcima">
+
                 <p>A regularização de um imóvel se torna uma vantagem para você, como o caso de compra-lo ou vendê-lo, pois agiliza o processo [...]</p>
-              </div>
-            </div>
+
           </div>
           <div class="boxbaixo"> <span class="txt">PRECISA REGULARIZAR SEU IMÓVEL?</span> </div>
-        <div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
       </div>
       </div>
+
      </div>
+           <div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a></div>
     </div>
+  </div>
   </div>
   <div class="orcamento">
     <div class="container">
@@ -315,42 +305,44 @@
             <div class="form-group">
               <textarea class="form-control" placeholder="Mensagem"></textarea>
             </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            	<a href="" class="enviar-form" type="submit">Enviar</a>
+            </div>
           </form>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div id="mapa"></div>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <a href="" class="enviar-form" type="submit">Enviar</a> </div>
+
       </div>
     </div>
   </div>
   <div class="contato">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6 ">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>ENDEREÇO</h3>
           <ul class="endereco">
             <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
-            <li> <span class="end">CEP: 97010-040</span> </li>
-            <li> <span class="end">Santa Maria - RS</span> </li>
+            <li class="hidden-xs"> <span class="end">CEP: 97010-040</span> </li>
+            <li class="hidden-xs"> <span class="end">Santa Maria - RS</span> </li>            
+            <li class="hidden-lg hidden-md"> <span class="end">CEP: 97010-040, Santa Maria - RS</span> </li>            
           </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>CONTATO</h3>
-          <ul>
-            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
-                                href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)
-              9961-1333</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55)
-              9149-4057</a></li>
+          <ul class="endereco">
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55) 9149-4057</a></li>
+
+            <li class="hidden-lg hidden-md"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a>  <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:(55) 9149-4057"> (55) 9149-4057</li>            
           </ul>
         </div>
       </div>
     </div>
   </div>
 </main>
-
 <!-- RODAPÉ -->
 <div class="footer">
   <div class="container">
@@ -420,11 +412,15 @@
         if ($(".banner-resolvaRapido").length > 0) {
             $(".banner-resolvaRapido").owlCarousel({
                 autoplay: true,
-                //autoplayHoverPause: true,
                 dots: true,
                 nav: false,
                 loop: true,
                 items: 1,
+				autoHeight : true,
+		        itemsDesktop : [1000,5], //5 items between 1000px and 901px
+		        itemsDesktopSmall : [900,3], // betweem 900px and 601px
+		        itemsTablet: [600,2], //2 items between 600 and 0
+		        itemsMobile : false // itemsMobile disabled - inherit from itemsTablet option
             });
         }
     });
