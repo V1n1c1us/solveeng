@@ -28,60 +28,117 @@
       <h2 class="titulo">Resolva Rápido</h2>
     </div>
   </div>
-  <div class="row row1">
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="contaDeLuz"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-01.png" alt=""></div></a>
+    <div class="row row1 hidden-xs">
+   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+         <img src="images/resolva-rapido/resolva-rapido-01.png" alt="">
       </div>
-      <div class="titulo"> <span>conta de luz muito cara?</span> </div>
+      <div class="titulo"><h4><a href="contaDeLuz">conta de luz muito cara?</a></h4> </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="instEletrica"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-02.png" alt=""></div></a>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+      <div class="box-img">
+		 <img src="images/resolva-rapido/resolva-rapido-02.png" alt="">
       </div>
-      <div class="titulo"> <span>Problemas em sua instalação elétrica?</span> </div>
+      <div class="titulo"><h4><a href="instEletrica">Problemas em sua instalação elétrica?</a></h4> </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="alvaraBombeiros"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-03.png" alt=""></div></a>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+      <div class="box-img">
+       <img src="images/resolva-rapido/resolva-rapido-03.png" alt="">
       </div>
-      <div class="titulo"> <span>Precisa de alvará dos bombeiros?</span> </div>
+      <div class="titulo"><h4> <a href="alvaraBombeiros">Precisa de alvará dos bombeiros?</a></h4> </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="rachaduraCasa"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-04.png" alt=""></div></a>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+     <div class="box-img">
+		<img src="images/resolva-rapido/resolva-rapido-04.png" alt="">
       </div>
-      <div class="titulo"> <span>Está com infiltração ou rachadura em sua casa?</span> </div>
-    </div>
-    
-    
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="regulariazarImovel"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-05.png" alt=""></div></a>
-      </div>
-      <div class="titulo"> <span>precisa regularizar seu imóvel?</span> </div>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="imovelNovoProblema"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-06.png" alt=""></div></a>
-      </div>
-      <div class="titulo"> <span>  SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</span> </div>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="projetoBemExecutado"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-07.png" alt=""></div></a>
-      </div>
-      <div class="titulo"> <span>QUER CONFERIR SE O PROJETO FOI BEM EXECUTADO?</span> </div>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-      <div class="box-resolva">
-        <a href="manutencao"><div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-08.png" alt=""></div></a>
-      </div>
-      <div class="titulo"> <span>SEU CONDOMÍNIO TEM ACOMPANHAMENTO DE MANUTENÇÃO?</span> </div>
+      <div class="titulo"> <a href="rachaduraCasa"><h4>Está com infiltração ou rachadura em sua casa?</a></h4> </div>
     </div>
     
-           
+    
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+        <div class="box-img">
+        <div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-05.png" alt=""></div></a>
+      </div>
+      <div class="titulo"> <h4><a href="regulariazarImovel">precisa regularizar seu imóvel?</a></h4> </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+      <div class="box-img">
+        <div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-06.png" alt=""></div></a>
+      </div>
+      <div class="titulo"> <h4> <a href="imovelNovoProblema"> SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</a></h4> </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+       <div class="box-img">
+        <div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-07.png" alt=""></div></a>
+      </div>
+      <div class="titulo"> <h4><a href="projetoBemExecutado">QUER CONFERIR SE O PROJETO FOI BEM EXECUTADO?</a></h4> </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 box-resolva">
+      <div class="box-img">
+        <div class="box-icone"><img src="images/resolva-rapido/resolva-rapido-08.png" alt=""></div></a>
+      </div>
+      <div class="titulo"> <h4><a href="manutencao">SEU CONDOMÍNIO TEM ACOMPANHAMENTO DE MANUTENÇÃO?</a></h4> </div>
+    </div>    
   </div>
+  
+  
+  
+  <div class="row row1 hidden-lg hidden-md">
+	<div id="owl-carousel">
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+         <img src="images/resolva-rapido/resolva-rapido-01.png" alt="">
+      </div>
+      <div class="titulo"><h4><a href="contaDeLuz">conta de luz muito cara?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+		 <img src="images/resolva-rapido/resolva-rapido-02.png" alt="">
+      </div>
+      <div class="titulo"><h4><a href="instEletrica">Problemas em sua instalação elétrica?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+       <img src="images/resolva-rapido/resolva-rapido-03.png" alt="">
+      </div>
+      <div class="titulo"><h4> <a href="alvaraBombeiros">Precisa de alvará dos bombeiros?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+     <div class="box-img">
+		<img src="images/resolva-rapido/resolva-rapido-04.png" alt="">
+      </div>
+      <div class="titulo"> <a href="rachaduraCasa"><h4>Está com infiltração ou rachadura em sua casa?</a></h4> </div>
+    </div>
+    
+    
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+        <div class="box-img">
+        <img src="images/resolva-rapido/resolva-rapido-05.png" alt="">
+      </div>
+      <div class="titulo"> <h4><a href="regulariazarImovel">precisa regularizar seu imóvel?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+       <img src="images/resolva-rapido/resolva-rapido-06.png" alt="">
+      </div>
+      <div class="titulo"> <h4> <a href="imovelNovoProblema"> SEU IMÓVEL É NOVO E ESTÁ COM PROBLEMAS?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+       <div class="box-img">
+        <img src="images/resolva-rapido/resolva-rapido-07.png" alt="">
+      </div>
+      <div class="titulo"> <h4><a href="projetoBemExecutado">QUER CONFERIR SE O PROJETO FOI BEM EXECUTADO?</a></h4> </div>
+    </div>
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 box-resolva">
+      <div class="box-img">
+        <img src="images/resolva-rapido/resolva-rapido-08.png" alt="">
+      </div>
+      <div class="titulo"> <h4><a href="manutencao">SEU CONDOMÍNIO TEM ACOMPANHAMENTO DE MANUTENÇÃO?</a></h4> </div>
+    </div>    
+    
+      </div>     
+  </div>
+
   <div class="row">
 	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
    	<div id="contaDeLuz" class="texto thumb-icone-resolva-01">
@@ -284,7 +341,7 @@ e hidráulicas, da pintura, da estrutura principal, entre outras.</p>
     </div> 
    </div>
 </div>
-</div>
+
 </div>
 <div class="contato">
     <div class="container">
@@ -347,6 +404,22 @@ $(function(){
         $("#"+id+"").addClass("active");
         
     });
+});
+</script>
+<script async>
+$(document).ready(function() {
+
+     $(document).ready(function () {
+        if ($("#owl-carousel").length > 0) {
+            $("#owl-carousel").owlCarousel({
+                autoplay: true,
+                //autoplayHoverPause: true,
+                loop: true,
+                items: 1,
+            });
+        }
+    });
+ 
 });
 </script>
 </body>

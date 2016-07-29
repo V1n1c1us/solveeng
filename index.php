@@ -9,6 +9,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="css/owl.carousel.css" rel="stylesheet" type="text/css">
+<link href="css/owl.theme.css" rel="stylesheet" type="text/css">
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -56,7 +57,7 @@
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-        <div class=" box-trabalhos">
+        <div class="box-trabalhos">
           <div class="retina"></div>
           <img class="img-responsive" src="images/Relatorios-e-Laudos-Tecnicos.jpg" alt="Relatórios e Laudos Técnicos">
           <div class="area-titulo">
@@ -74,7 +75,7 @@
         </div>
       </div>
     </div>
-    <div class="row hidden-lg hidden-md hidden-sm">
+    <div class="row hidden-lg hidden-md ">
       <div class="col-lg-12">
         <h2 class="titulo">Nossos Trabalhos</h2>
       </div>
@@ -209,7 +210,7 @@
         </div>
       </div>
       <div class="row">
-      <div class="banner-resolvaRapido">
+      <div class="banner-resolvaRapido owl-carousel">
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
         <div class="item">
           <div class="boxcima"> 
@@ -386,8 +387,6 @@
             $(".banner-principal").owlCarousel({
                 autoplay: true,
                 //autoplayHoverPause: true,
-                dots: true,
-                nav: false,
                 loop: true,
                 items: 1,
             });
@@ -399,8 +398,6 @@
             $(".banner-secundario").owlCarousel({
                 autoplay: true,
                 //autoplayHoverPause: true,
-                dots: true,
-                nav: false,
                 loop: true,
                 items: 1,
             });
@@ -411,9 +408,9 @@
 	$(document).ready(function () {
         if ($(".banner-resolvaRapido").length > 0) {
             $(".banner-resolvaRapido").owlCarousel({
-                autoplay: true,
+			    autoplay: true,
+				navigationText : false,
                 dots: true,
-                nav: false,
                 loop: true,
                 items: 1,
 				autoHeight : true,

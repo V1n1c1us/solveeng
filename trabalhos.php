@@ -199,7 +199,7 @@ fícios da instalação.</p>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6">
           <h3>CONTATO</h3>
-          <ul>
+         <ul class="endereco">
             <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
                                 href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
             <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)

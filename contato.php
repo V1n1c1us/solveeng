@@ -29,17 +29,17 @@
       <div class="col-md-12">
         <h2 class="titulo">Contato</h2>
       </div>
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <h3>ENDEREÇO</h3>
-          <ul class="endereco">
+          <ul class="lista-contato">
             <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
             <li> <span class="end">CEP: 97010-040</span> </li>
             <li> <span class="end">Santa Maria - RS</span> </li>
           </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <h3>CONTATO</h3>
-          <ul class="endereco">
+          <ul class="lista-contato">
             <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
                                 href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
             <li><i class="fa fa-phone" aria-hidden="true"></i> (55) 9961-1333</a></li>
@@ -49,9 +49,8 @@
   </div>
   </div>
     <div class="container">
-      <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6">
-         <h1 class="">Formulário de Contatos</h1>
+          <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <form action="">
             <div class="form-group">
               <input type="nome" class="form-control contato-input" id="nome" placeholder="Nome">
@@ -65,15 +64,16 @@
             <div class="form-group">
               <textarea class="form-control contato-textarea" placeholder="Mensagem"></textarea>
             </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            	<a href="" class="enviar-form" type="submit">Enviar</a>
+            </div>
           </form>
         </div>
-        <div class="col-lg-6 col-md-6">
-        <h1 class="">Encontre-nos no mapa</h1>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div id="mapa"></div>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <a href="" class="enviar-form" type="submit">Enviar</a> </div>
       </div>
-          </div>
+      </div>
   <div class="contato">
     <div class="container">
       <div class="row">
@@ -87,7 +87,7 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6">
           <h3>CONTATO</h3>
-          <ul>
+          <ul class="endereco">
             <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
                                 href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
             <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)

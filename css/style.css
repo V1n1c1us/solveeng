@@ -198,7 +198,7 @@ header .menu {
     padding: 0 0 70px;
 }
 .resolva-rapido .header {
-    margin-top: 120px;
+    margin-top: 35px;
 }
 .resolva-rapido .header h2 {
     color: #fff;
@@ -296,7 +296,7 @@ header .menu {
     background: url(../images/background-01.png);
 }
 .header {
-    margin-top: 105px;
+    margin-top: 35px;
 }
 form input.form-control {
     height: 57px;
@@ -319,6 +319,8 @@ form textarea.form-control {
 form textarea.form-control.contato-textarea {
     background: #ccc;
 }
+
+
 .enviar-form {
     margin-bottom: 50px;
     width: 112px;
@@ -374,13 +376,25 @@ form textarea.form-control.contato-textarea {
 img.banner {
     width: 100%;
 }
-ul.endereco, ul.endereco li a {
+ul.endereco{
     list-style: none;
-    color: #333;
+ 
+}
+ul.endereco li a{
+   color: #fff;	
 }
 ul.endereco li {
     margin-bottom: 10px;
 }
+
+ul.lista-contato {
+	list-style: none;	
+}
+
+.lista-contato li a {
+	color: #333;
+}
+
 /*NOTÍCIAS*/
 ul.noticias {
     list-style: none;
@@ -404,7 +418,6 @@ ul.noticias li:nth-child(2n) {
     background: #004755;
     text-align: center;
     margin-bottom: 30px;
-    word-break: break-all;
 }
 .row1 .titulo span {
     font-family: 'Raleway', sans-serif;
@@ -499,20 +512,40 @@ ul.noticias li:nth-child(2n) {
     padding-left: 35px }
 /********************/
 /*RESOLVA RÁDPIOD*/
-.box-resolva {
+.box-img {
     height: 157px;
     background: #339999;
-    border-bottom: 2px solid #fff;
+	position:relative;
 }
-.box-icone img {
+.box-img img {
     width: 100px;
     border: none;
-    margin-top: 35px;
-    margin-left: 30%;
+	top: 50%;
+    margin-top: -40px;
+    left: 50%;
+	margin-left: -50px;
+	position: absolute
 }
-.box-resolva:hover {
+.box-resolva:hover .box-img{
     background: #004755;
 }
+
+.row1 .titulo {
+    width: 100%;
+    height: 60px;
+    background: #004755;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.row1 .titulo h4 a{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
 .thumb-icone-resolva-01 {
     background: url(../images/resolva-rapido/resolva-icon-parag-01.png) no-repeat 0 0;
     padding-left: 35px }
@@ -622,6 +655,9 @@ input[type="file" i]: : -webkit-file-upload-button, button {
     border: none;
     color: #fff;
 }
+
+
+
 /********************/
 /*FOOTER*/
 .footer {
@@ -633,7 +669,7 @@ input[type="file" i]: : -webkit-file-upload-button, button {
 .footer .copy {
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
+    text-align:center;
     color: #FFF;
     vertical-align: middle;
     margin: 8px 0 5px;
@@ -782,15 +818,29 @@ h4 p span {
 	.footer .copy {
 	    font-size: 13px;
 	}
+	
+	
+	/*Quem Somos*/
+	.margin-lista{
+		font-size: 14px;
+		margin-left: 0px;
+	}
+	
+	/*Resolva rapido*/
+	.box-img img{
+		width: 100px !important;
+	    border: none;
+	}
+	
+	/*Contato*/
+	ul.lista-contato{
+		font-size: 14px;
+	}
 }
 /*telas de largura máxima 360px*/
 @media screen and (min-width: 640px){
 	header .logo{
 	    margin: 0px 16px 8px 0px;
-	}
-	.logo img{
-	    width: 160px;
-	    margin-bottom: 55px;
 	}
 	.navbar-collapse.collapse.in{
 		margin-bottom: 55px;
