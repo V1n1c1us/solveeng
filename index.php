@@ -36,7 +36,7 @@
           viáveis. Conta com uma equipe de profissionais habilitados, credenciados e em constante
           atualização que proporcionam aos clientes um produto final de acordo com suas necessidades,
           expectativas e exigências.</p>
-        <div class="area-action"> <a href="" title="" class="buttom01">Saiba Mais</a> </div>
+        <div class="area-action"> <a href="quemsomos.php" title="" class="buttom01">Saiba Mais</a> </div>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
         </div>
       </div>
     </div>
-    <div class="area-action"> <a href="" title="" class="buttom01">Ver Todos</a> </div>
+    <div class="area-action"> <a href="" title="nossos-trabalhos.php" class="buttom01">Ver Todos</a> </div>
   </div>
   <div class="resolva-rapido hidden-xs">
     <div class="container">
@@ -280,7 +280,7 @@
       </div>
 
      </div>
-           <div class="area-action-resolva-rapido"> <a href="" title="" class="buttom01">Ver Todos</a></div>
+           <div class="area-action-resolva-rapido"> <a href="resolva-rapido.php" title="" class="buttom01">Ver Todos</a></div>
     </div>
   </div>
   </div>

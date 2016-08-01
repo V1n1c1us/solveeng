@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-3 col-xs-6">
         <ul class="vagas">
           <li><a href="vagasDisponiveis">Vagas Disponíveis</a></li>
           <li><a href="formulario">Não Tenho Cadastro</a></li>
@@ -37,7 +37,7 @@
         </ul>
       </div>
       <div id="formulario">
-        <div class="col-md-9">
+        <div class="col-md-9 col-sm-9 col-xs-9">
           <ul class="vagas-itens">
             <li>1. Preencha o formulário abaixo para <span class="sub-titulo">Cadastramento de Candidato</span>, ou clique aqui
               para atualizar seu currículo</li>
@@ -205,7 +205,7 @@
         </div>
       </div>
       <div id="jatenhoCadastro">
-        <div class="col-md-9">
+        <div class="col-md-9 col-sm-9 col-xs-9">
           <ul class="vagas-itens">
             <li>1. <span class="sub-titulo">Atualize seu currículo</span> se caso já estiver cadastrado em nosso site. Caso não tenha se cadastrado, clique <span class="sub-titulo">aqui</span> para preencher o Cadastramento de Candidato</li>
             <li>2. Poderá verificar as vagas disponíveis e candidatar-se a elas.</li>
@@ -254,23 +254,23 @@
   <div class="contato">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>ENDEREÇO</h3>
           <ul class="endereco">
             <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
-            <li> <span class="end">CEP: 97010-040</span> </li>
-            <li> <span class="end">Santa Maria - RS</span> </li>
+            <li class="hidden-xs"> <span class="end">CEP: 97010-040</span> </li>
+            <li class="hidden-xs"> <span class="end">Santa Maria - RS</span> </li>            
+            <li class="hidden-lg hidden-md"> <span class="end">CEP: 97010-040, Santa Maria - RS</span> </li>            
           </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>CONTATO</h3>
-          <ul>
-            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
-                                href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)
-              9961-1333</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55)
-              9149-4057</a></li>
+          <ul class="endereco">
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55) 9149-4057</a></li>
+
+            <li class="hidden-lg hidden-md"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a>  <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:(55) 9149-4057"> (55) 9149-4057</li>            
           </ul>
         </div>
       </div>

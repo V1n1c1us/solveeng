@@ -427,7 +427,7 @@ ul.noticias li:nth-child(2n) {
     text-transform: uppercase;
     padding: 10px;
 }
-.row2 img {
+/*.row2 img {
     width: 100%;
     border-bottom: 4px solid #fff;
 }
@@ -449,7 +449,7 @@ ul.noticias li:nth-child(2n) {
 }
 .hoverzoom-trabalhos {
     overflow: hidden;
-}
+}*/
 .hoverzoom-trabalhos .retina-trabalhos {
     position: absolute;
     width: 90%;
@@ -838,12 +838,12 @@ h4 p span {
 	}
 }
 /*telas de largura máxima 360px*/
-@media screen and (min-width: 640px){
+@media screen and (min-width: 640px) and (max-width: 767px){
 	header .logo{
 	    margin: 0px 16px 8px 0px;
 	}
 	.navbar-collapse.collapse.in{
-		margin-bottom: 55px;
+		margin-bottom: 20px;
 	}
 	.menu li a {
 	z-index: 9999;
@@ -851,14 +851,40 @@ h4 p span {
 	.margin60{
 		margin-top: 0px;
 	}
+	.banner-principal {
+    margin-top: -60px;
+	}
 	.banner-secundario {
     margin-top: 0px;
-}
+	}
 	.boxcima p{
 		color: #fff;
 		font-size: 20px;
 	    padding: 20px;
 	}
+	.retina.box-img img{
+		width: 100px;
+	}
+	
+	.box-img{
+		width: 100%;
+	}
+	
+	.box-img img{
+		width: 100px !important;
+	}
+	
+	.area-action {
+	    margin: 0px 0px;
+	}
+	.area-action-resolva-rapido {
+	    margin: 0px 15px;
+	}
+	
+	#mapa{
+		margin-bottom:
+	}
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -868,32 +894,16 @@ h4 p span {
     margin-left: -10px;
 }
  header .logo img {
-    display: block;
-    margin: 0 auto;
 	width: 280px;
-    margin-bottom: 120px;
 }
 
-
-ul.menu li > a:hover {
-    background: transparent;
-    border-bottom: 3px solid #004755;
-}
  .navbar .navbar-nav {
     margin-bottom: 80px;
 }
- .navbar-toggle {
-    position: relative;
-    float: right;
-    padding: 20px;
-    margin-top: -150px;
-    margin-right: 15px;
-    margin-bottom: 8px;
-    background-color: #336c77;
-    background-image: none;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    z-index: 100;
+
+.margin60 {
+    margin-top: 0px;
+    margin-bottom: 60px;
 }
 
 

@@ -11,12 +11,12 @@
                                 data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
             </div>
           </div>
-          <div class="col-lg-10 col-md-10">
+          <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right menu">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="quemsomos.php">Quem Somos</a></li>
-                <li><a href="trabalhos.php">Nossos Trabalhos</a></li>
+                <li><a href="nossos-trabalhos.php">Nossos Trabalhos</a></li>
                 <li class="destaque"><a href="resolva-rapido.php">Resolva Rápido</a></li>
                 <li><a href="noticias.php">Notícias</a></li>
                 <li><a href="trabalhe-conosco.php">Trabalhe Conosco</a></li>

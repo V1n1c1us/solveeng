@@ -246,5 +246,21 @@ $(function(){
     });
 });
 </script>
+<script async>
+$(document).ready(function() {
+
+     $(document).ready(function () {
+        if ($("#owl-carousel").length > 0) {
+            $("#owl-carousel").owlCarousel({
+                autoplay: true,
+                //autoplayHoverPause: true,
+                loop: true,
+                items: 1,
+            });
+        }
+    });
+ 
+});
+</script>
 </body>
 </html>

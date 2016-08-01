@@ -62,26 +62,26 @@
        </div> 
     </div>
   </div>
-    <div class="contato">
+<div class="contato">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>ENDEREÇO</h3>
           <ul class="endereco">
             <li> <i class="fa fa-map-marker"></i> Rua: André Marques, nº 766 </li>
-            <li> <span class="end">CEP: 97010-040</span> </li>
-            <li> <span class="end">Santa Maria - RS</span> </li>
+            <li class="hidden-xs"> <span class="end">CEP: 97010-040</span> </li>
+            <li class="hidden-xs"> <span class="end">Santa Maria - RS</span> </li>            
+            <li class="hidden-lg hidden-md"> <span class="end">CEP: 97010-040, Santa Maria - RS</span> </li>            
           </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <h3>CONTATO</h3>
           <ul class="endereco">
-            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
-                                href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55)
-              9961-1333</a></li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55)
-              9149-4057</a></li>
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:contato@solvesm.eng.br"> contato@solvesm.eng.br</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a></li>
+            <li class="hidden-xs"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9149-4057"> (55) 9149-4057</a></li>
+
+            <li class="hidden-lg hidden-md"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:(55) 9961-1333"> (55) 9961-1333</a>  <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:(55) 9149-4057"> (55) 9149-4057</li>            
           </ul>
         </div>
       </div>
